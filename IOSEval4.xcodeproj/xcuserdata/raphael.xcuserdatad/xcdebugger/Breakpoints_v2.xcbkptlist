@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD12889F-563E-4DEB-9795-C3706A14A110"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2E96F1D-016F-436F-B6EC-8C9EF8CCF95C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSEval4/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "addExpense(myCustomDate:myCustomName:myCustomValue:sections:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D2E96F1D-016F-436F-B6EC-8C9EF8CCF95C - 1fcc5c4a12472452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSEval4.DataManager.addExpense(myCustomDate: Swift.String, myCustomName: Swift.String, myCustomValue: Swift.Int, sections: IOSEval4.ExpenseSection) -&gt; ()"
+                  moduleName = "IOSEval4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raphael/Dev/Mobile%20/IOS/IOSEval4/IOSEval4/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "D2E96F1D-016F-436F-B6EC-8C9EF8CCF95C - 1fcc5c4a1247243d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSEval4.DataManager.addExpense(myCustomDate: Swift.String, myCustomName: Swift.String, myCustomValue: Swift.Int, sections: IOSEval4.ExpenseSection) -&gt; ()"
+                  moduleName = "IOSEval4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raphael/Dev/Mobile%20/IOS/IOSEval4/IOSEval4/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "D2E96F1D-016F-436F-B6EC-8C9EF8CCF95C - 1fcc5c4a1247243d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSEval4.DataManager.addExpense(myCustomDate: Swift.String, myCustomName: Swift.String, myCustomValue: Swift.Int, sections: IOSEval4.ExpenseSection) -&gt; ()"
+                  moduleName = "IOSEval4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raphael/Dev/Mobile%20/IOS/IOSEval4/IOSEval4/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "735603AE-6DD3-42C7-8710-EB3618987F31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSEval4/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "addExpense(myCustomDate:myCustomName:myCustomValue:sections:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "735603AE-6DD3-42C7-8710-EB3618987F31 - 1fcc5c4a12473bf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSEval4.DataManager.addExpense(myCustomDate: Swift.String, myCustomName: Swift.String, myCustomValue: Swift.Int, sections: IOSEval4.ExpenseSection) -&gt; ()"
+                  moduleName = "IOSEval4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raphael/Dev/Mobile%20/IOS/IOSEval4/IOSEval4/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "735603AE-6DD3-42C7-8710-EB3618987F31 - 1fcc5c4a12473bf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSEval4.DataManager.addExpense(myCustomDate: Swift.String, myCustomName: Swift.String, myCustomValue: Swift.Int, sections: IOSEval4.ExpenseSection) -&gt; ()"
+                  moduleName = "IOSEval4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raphael/Dev/Mobile%20/IOS/IOSEval4/IOSEval4/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AE378F8-E8E1-4A0C-99C1-2FE4D1FA92B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSEval4/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "addExpenseSection(name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
